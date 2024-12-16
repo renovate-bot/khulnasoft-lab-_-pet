@@ -17,8 +17,8 @@ require (
 	github.com/pkg/errors v0.8.0
 	github.com/spf13/cobra v0.0.7
 	github.com/spf13/pflag v1.0.3 // indirect
-	github.com/xanzy/go-gitlab v0.105.0
-	//github.com/xanzy/go-gitlab v0.105.0
+	github.com/xanzy/go-gitlab v0.115.0
+	//github.com/xanzy/go-gitlab v0.115.0
 	golang.org/x/crypto v0.23.0
 	golang.org/x/oauth2 v0.20.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
@@ -38,7 +38,7 @@ require (
 	github.com/golang/protobuf v1.5.3 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/hashicorp/go-cleanhttp v0.5.2 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.7 // indirect
 	github.com/lucasb-eyer/go-colorful v1.0.3 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	golang.org/x/net v0.21.0 // indirect
