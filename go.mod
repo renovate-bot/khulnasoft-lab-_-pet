@@ -8,7 +8,7 @@ require (
 	github.com/chzyer/logex v1.1.10 // indirect
 	github.com/chzyer/readline v0.0.0-20180603132655-2972be24d48e
 	github.com/chzyer/test v0.0.0-20210722231415-061457976a23 // indirect
-	github.com/fatih/color v1.17.0
+	github.com/fatih/color v1.18.0
 	github.com/google/go-github v15.0.0+incompatible
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
@@ -42,7 +42,7 @@ require (
 	github.com/lucasb-eyer/go-colorful v1.0.3 // indirect
 	github.com/rivo/uniseg v0.2.0 // indirect
 	golang.org/x/net v0.21.0 // indirect
-	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/sys v0.25.0 // indirect
 	golang.org/x/term v0.20.0 // indirect
 	golang.org/x/text v0.15.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
