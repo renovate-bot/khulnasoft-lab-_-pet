@@ -1,6 +1,8 @@
 module github.com/khulnasoft-lab/pet
 
-go 1.20
+go 1.21.0
+
+toolchain go1.24.6
 
 require (
 	github.com/atotto/clipboard v0.1.4
@@ -28,7 +30,8 @@ require (
 require (
 	github.com/awesome-gocui/gocui v1.1.0
 	github.com/go-test/deep v1.1.0
-	github.com/pelletier/go-toml v1.9.5
+	github.com/pelletier/go-toml v1.2.0
+	github.com/pelletier/go-toml/v2 v2.2.4
 )
 
 require (
